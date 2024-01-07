@@ -1,0 +1,124 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "department": "IT"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "department": "HR"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "department": "Finance"
+    },
+    {
+      "id": 4,
+      "name": "Alice Brown",
+      "email": "alice.brown@example.com",
+      "department": "Marketing"
+    },
+    {
+      "id": 5,
+      "name": "Charlie Wilson",
+      "email": "charlie.wilson@example.com",
+      "department": "Operations"
+    },
+    {
+      "id": 6,
+      "name": "Eva Davis",
+      "email": "eva.davis@example.com",
+      "department": "IT"
+    },
+    {
+      "id": 7,
+      "name": "Frank Miller",
+      "email": "frank.miller@example.com",
+      "department": "Finance"
+    },
+    {
+      "id": 8,
+      "name": "Grace Taylor",
+      "email": "grace.taylor@example.com",
+      "department": "HR"
+    },
+    {
+      "id": 9,
+      "name": "Henry White",
+      "email": "henry.white@example.com",
+      "department": "Marketing"
+    },
+    {
+      "id": 10,
+      "name": "Ivy Clark",
+      "email": "ivy.clark@example.com",
+      "department": "Operations"
+    },
+    {
+      "id": 11,
+      "name": "Jack Turner",
+      "email": "jack.turner@example.com",
+      "department": "IT"
+    },
+    {
+      "id": 12,
+      "name": "Karen Harris",
+      "email": "karen.harris@example.com",
+      "department": "HR"
+    },
+    {
+      "id": 13,
+      "name": "Leo Martinez",
+      "email": "leo.martinez@example.com",
+      "department": "Finance"
+    },
+    {
+      "id": 14,
+      "name": "Mia Adams",
+      "email": "mia.adams@example.com",
+      "department": "Marketing"
+    },
+    {
+      "id": 15,
+      "name": "Nathan Hall",
+      "email": "nathan.hall@example.com",
+      "department": "Operations"
+    },
+    {
+      "id": 16,
+      "name": "Olivia Reed",
+      "email": "olivia.reed@example.com",
+      "department": "IT"
+    },
+    {
+      "id": 17,
+      "name": "Peter Davis",
+      "email": "peter.davis@example.com",
+      "department": "HR"
+    },
+    {
+      "id": 18,
+      "name": "Quinn Turner",
+      "email": "quinn.turner@example.com",
+      "department": "Finance"
+    },
+    {
+      "id": 19,
+      "name": "Rose White",
+      "email": "rose.white@example.com",
+      "department": "Marketing"
+    },
+    {
+      "id": 20,
+      "name": "Samuel Harris",
+      "email": "samuel.harris@example.com",
+      "department": "Operations"
+    }
+  ]
+}
